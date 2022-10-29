@@ -1,5 +1,7 @@
 <template>
-  <q-page class="flex flex-center">
+  <q-page class="column flex flex-center">
+    <div class="i-logos-vue text-3xl" />
+
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
